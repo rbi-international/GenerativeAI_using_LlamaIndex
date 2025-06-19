@@ -1,0 +1,5 @@
+llama-index==0.12.39
+llama-index-vector-stores-chroma
+llama-index-llms-palm  # optional
+chromadb==1.0.12
+python-dotenv==1.1.0
